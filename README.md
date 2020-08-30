@@ -1,0 +1,1 @@
+* The project information is contained in the [Code Explanataion](https://github.com/iasim/Word-Puzzle-Generator/blob/master/Code%20Explanation.pdf) and the [Backtracking Explanataion](https://github.com/iasim/Word-Puzzle-Generator/blob/master/Backtracking%20Explanation.pdf)
